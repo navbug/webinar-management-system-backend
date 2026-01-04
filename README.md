@@ -45,6 +45,7 @@ npm install
 ```env
 MONGODB_URI=<MONGODB_URL>
 PORT=3000
+FRONTEND_URL=<FRONTEND_URL>
 ```
 
 4. Start the backend server:
